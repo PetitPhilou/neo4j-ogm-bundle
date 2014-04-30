@@ -1,5 +1,5 @@
 {
-    "name": "klaussilveira/neo4j-ogm-bundle",
+    "name": "petitphilou/neo4j-ogm-bundle",
     "description": "This bundle provides a simple integration of the Neo4j PHP Object Graph Mapper into Symfony2",
     "type": "symfony-bundle",
     "keywords": ["neo4j", "graph", "database", "ogm"],
